@@ -2,6 +2,8 @@
 
 Análise de dados de jovens alagoanos (15 a 29 anos) e sua relação com o mercado de trabalho e a educação usando a PNADc de 2019.
 
+O dicionário de dados da PNADc anual (Visita 1 - usada nesse script) pode ser baixado em: https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html?caminho=Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Anual/Microdados/Visita > Visita 1 > Documentação > Dicionário
+
 O script gera diversas tabelas que foram usadas para a construção de um dashboard.
 
     1. desoc_e.xlsx - Jovens desempregados que estudam, segundo o curso que frequentam e a idade.
